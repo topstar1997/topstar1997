@@ -1,16 +1,52 @@
 ## Hi there 👋
 
-<!--
-**topstar1997/topstar1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My work centers around:
+- ⚙️ **Scalable Backend Systems**
+- 🌐 **Full-Stack Web Development**
+- ⛓️ **Blockchain & Web3 Applications**
+- 📊 **Data Engineering & Processing Pipelines**
+- 🚀 **High-Performance Systems (C++ / C#)**
+- 🔗 **API Architecture & Distributed Systems**
+I enjoy solving complex engineering problems, optimizing system performance, and building software that scales efficiently under real-world workloads.
 
-Here are some ideas to get you started:
+---
+### 🛠️ Core Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages**
+- C++
+- C#
+- Python
+- JavaScript
+- SQL
+
+**Backend & Systems**
+- REST APIs
+- Microservices
+- Distributed Systems
+- High-Performance Computing
+
+**Blockchain**
+- Smart Contracts
+- Web3 Integrations
+- Blockchain Infrastructure
+
+**Data Engineering**
+- Data Processing
+- ETL Pipelines
+- Database Optimization
+
+---
+### 📌 What I Focus On
+
+- Designing **robust backend architectures**
+- Building **high-performance systems**
+- Developing **scalable APIs and services**
+- Creating **blockchain-enabled platforms**
+- Optimizing **data pipelines and processing**
+
+---
+### 🤝 Collaboration
+
+I am always interested in collaborating on **innovative software, backend systems, blockchain technologies, and high-performance applications**.
+
+Feel free to explore my repositories and connect if you'd like to collaborate on exciting projects.
