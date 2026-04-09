@@ -1,6 +1,6 @@
 <h1 align="center">🧠 Senior AI & Blockchain Developer</h1>
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=220&section=header&text=AI%20%20Blockchain%20Engineer&fontSize=42&fontAlignY=35&animation=fadeIn"/> </p> <p align="center"> <b>Machine Learning • Generative AI • LLM Engineering • Blockchain Development • Scalable Systems</b> </p> <p align="center"> <img src="https://img.shields.io/badge/Machine%20Learning-Expert-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/Generative%20AI-LLM-purple?style=for-the-badge"> <img src="https://img.shields.io/badge/Blockchain-Web3-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/Python-AI%20Engineering-green?style=for-the-badge"> <img src="https://img.shields.io/badge/Smart%20Contracts-Solidity-black?style=for-the-badge"></p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=220&section=header&text=AI%20%2F%20Blockchain%20Engineer&fontSize=42&fontAlignY=35&animation=fadeIn"/> </p> <p align="center"> <b>Machine Learning • Generative AI • LLM Engineering • Blockchain Development • Scalable Systems</b> </p> <p align="center"> <img src="https://img.shields.io/badge/Machine%20Learning-Expert-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/Generative%20AI-LLM-purple?style=for-the-badge"> <img src="https://img.shields.io/badge/Blockchain-Web3-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/Python-AI%20Engineering-green?style=for-the-badge"> <img src="https://img.shields.io/badge/Smart%20Contracts-Solidity-black?style=for-the-badge"></p>
 
 <h2 align="center">👋 About</h2>
 
@@ -78,13 +78,12 @@ Agents capable of executing structured workflows and tasks.
 
 Decentralized applications and smart contract systems built on Web3 infrastructure.
 
-<h2 align="center">🧩 AI & Blockchain System Architecture</h2> <p align="center">
-Typical architecture I design combines AI systems and decentralized infrastructure:
-</p>
-
+<h2 align="center">🧩 AI System Architecture</h2> <p align="center"> Typical AI platforms I design focus on scalable data processing, machine learning pipelines, and production-ready model serving. </p>
 Data Sources
       ↓
 Data Processing Pipelines
+      ↓
+Feature Engineering
       ↓
 Machine Learning Models
       ↓
@@ -92,16 +91,47 @@ LLM & Retrieval Systems
       ↓
 API Services
       ↓
-Blockchain / Smart Contracts
-      ↓
-Cloud or Decentralized Deployment
+Cloud Deployment
 
-Typical deployment environments include:
+Typical environments include:
 
 • containerized services
-• scalable APIs
-• cloud infrastructure
+• scalable REST APIs
+• distributed ML pipelines
+• cloud-based infrastructure
+
+Technologies frequently used:
+
+PyTorch •
+scikit-learn •
+LangChain •
+LlamaIndex
+
+<h2 align="center">🔗 Blockchain System Architecture</h2> <p align="center"> Blockchain applications I develop focus on secure smart contracts, decentralized applications, and Web3 integrations. </p>
+User Interface (Web / dApp)
+        ↓
+Web3 Integration Layer
+        ↓
+Smart Contracts
+        ↓
+Blockchain Network
+        ↓
+Off-chain Services / APIs
+        ↓
+Cloud or Decentralized Storage
+
+Typical components include:
+
+• decentralized applications (dApps)
+• smart contract development
 • Web3 integrations
+• secure blockchain transactions
+
+Technologies frequently used:
+
+Solidity •
+Web3.js •
+Ethereum
 
 <h2 align="center">🤝 Connect</h2> <p align="center">
 
